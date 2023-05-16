@@ -1,4 +1,4 @@
-## Hi! This is Aya0wind
+# 👋 Hi! Nice to see you !
 - :rainbow: Focused on Network programming  and compilers.
 - :fire: Mostly code in `C++`, `Rust` and `C#`.
 <!-- - :smiling_face_with_three_hearts: Currently working on  -->
