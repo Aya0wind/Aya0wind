@@ -1,6 +1,6 @@
 # 👋 Hi! Nice to see you !
 - :rainbow: Focused on network programming  and compilers.
-- :fire: Mostly code in `C++`, `Rust` and `C#`.
+- :fire: Mostly code in `C++`, `Rust`, `Golang` and `C#`.
 <!-- - :smiling_face_with_three_hearts: Currently working on  -->
 
 
