@@ -4,7 +4,7 @@
 <!-- - :smiling_face_with_three_hearts: Currently working on  -->
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/aya0wind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aya0wind" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12238714/aya0wind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aya0wind" height="30" width="40" /></a>
